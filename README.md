@@ -47,7 +47,8 @@ La primera actividad que se realizó en el parcial fue una prueba diagnóstica p
 
 ## Evidencia
 
-![Prueba diagnóstica](01_Diagnostico/diagnostico.jpg)
+![Prueba diagnóstica](Pd.jpeg)
+![Prueba diagnóstica](Pd2.jpeg)
 
 ## ¿Qué aprendí?
 
@@ -75,15 +76,12 @@ Finalmente, respondí la pregunta sobre el uso de los 12 bits de dirección: exp
 
 ### Programa para sumar dos números
 
-![Programa IAS - suma](02_Programacion_IAS/suma_IAS.jpg)
+![Programa IAS - suma](programIAS.jpeg)
 
-### Programa para comparar dos números
+### Programa para comparar dos números y pregunta extra
 
-![Programa IAS - comparación](02_Programacion_IAS/comparacion_IAS.jpg)
+![Programa IAS - comparación y pregunta extra](programIAS2.jpeg)
 
-### Pregunta extra
-
-![Pregunta extra IAS](02_Programacion_IAS/extra_credito_IAS.jpg)
 
 ## ¿Qué aprendí?
 
@@ -103,7 +101,10 @@ En esta actividad realicé un mapa conceptual sobre las arquitecturas de computa
 
 ## Evidencia
 
-![Mapa conceptual](03_Mapa_Conceptual/mapa_conceptual.jpg)
+![Mapa conceptual](MapaArquitceturas.jpeg)
+![Mapa conceptual](MapaArquitecturasBibliografia.jpeg)
+![Mapa conceptual](MapaArquitceturasR.jpeg)
+![Mapa conceptual](MapaArquitceturasR2.jpeg)
 
 ## ¿Qué aprendí?
 
@@ -131,7 +132,7 @@ Seguidamente se analizó el 7448, cuyo trabajo era decodificar la señal de 4 bi
 
 ## Evidencia
 
-[Ver reporte de la práctica de RAM 6116](04_Memoria_RAM_6116/reporte.pdf)
+[Ver reporte de la práctica de RAM 6116](ReporteRAM6116.pdf)
 
 ## ¿Qué aprendí?
 
@@ -152,15 +153,3 @@ La unidad fue muy interesante al poder ampliar conocimientos previos y relaciona
 # Conclusión
 
 En conclusión, considero que esta unidad ha estado llena de aprendizajes nuevos e importantes, como por ejemplo las arquitecturas de computadoras, la evolución de los equipos de cómputo y la utilización de nuevos integrados; pero de igual manera me sirvió para refrescar temas vistos antes, como los números binarios y el armado de circuitos electrónicos en protoboard. Considero que todos los aprendizajes adquiridos en la unidad me serán de gran utilidad en el ámbito profesional, al poder entender de mejor manera los equipos de cómputo.
-
----
-
-# Referencias
-
-Las referencias utilizadas en las actividades de la unidad se encuentran organizadas en el archivo:
-
-[Ver referencias](referencias.md)
-
-
-- Fuente 1
-- Fuente 2
