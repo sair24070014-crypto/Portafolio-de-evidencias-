@@ -64,7 +64,7 @@ Esta prueba diagnóstica puso en evidencia que, a pesar de tener algunos conocim
 
 ## Descripción de la actividad
 
-En esta práctica desarrollé dos programas con la sintaxis de la computadora IAS (1952), cuya arquitectura binaria y de programa almacenado emplea instrucciones de 20 bits (8 bits para el código de operación y 12 para la dirección de memoria). Para su elaboración, me apoyé en la tabla de instrucciones provista por el profesor.
+En esta práctica desarrollé dos programas con la sintaxis de la computadora IAS del año 1952, cuya arquitectura binaria y de programa almacenado emplea instrucciones de 20 bits, 8 bits para el código de operación y 12 para la dirección de memoria. Para su elaboración, me apoyé en la tabla de instrucciones provista por el profesor.
 
 El primer programa sumó dos números ubicados en las direcciones 0 y 1, guardando el resultado en la dirección 2. El proceso consistió en cargar el dato de la ubicación 0 al acumulador, sumarle el valor de la ubicación 1 y almacenar el resultado final en la ubicación 2.
 
@@ -74,11 +74,7 @@ Finalmente, respondí la pregunta sobre el uso de los 12 bits de dirección: exp
 
 ## Evidencias
 
-### Programa para sumar dos números
-
 ![Programa IAS - suma](programIAS.jpeg)
-
-### Programa para comparar dos números y pregunta extra
 
 ![Programa IAS - comparación y pregunta extra](programIAS2.jpeg)
 
@@ -97,7 +93,7 @@ En donde presenté más errores fue en el segundo código ya que primero, al no 
 
 ## Descripción de la actividad
 
-En esta actividad realicé un mapa conceptual sobre las arquitecturas de computadoras: John Von Neumann o arquitectura clásica, arquitectura segmentada y arquitectura multiproceso. Durante la elaboración de este, tuve que realizar una amplia investigación por medio de diferentes fuentes de información para poder encontrar en qué se enfocaba cada una, sus características, limitaciones, riesgos, etapas, componentes, etc., para después seleccionar lo más relevante y organizarlo de manera jerárquica y visual.
+En esta actividad realicé un mapa conceptual sobre las arquitecturas de computadoras de John Von Neumann o arquitectura clásica, arquitectura segmentada y arquitectura multiproceso. Durante la elaboración de este, tuve que realizar una amplia investigación por medio de diferentes fuentes de información para poder encontrar en qué se enfocaba cada una, sus características, limitaciones, riesgos, etapas, componentes, etc., para después seleccionar lo más relevante y organizarlo de manera jerárquica y visual.
 
 ## Evidencia
 
@@ -112,7 +108,7 @@ La elaboración de este mapa conceptual me ayudó a ampliar mis conocimientos so
 
 ## Errores y aspectos por mejorar
 
-Uno de los aspectos a mejorar es mi organización jerárquica, ya que con la información recopilada pude haber derivado a más niveles, lo que haría la lectura del mapa conceptual más ligera. También pude haber sintetizado la información de una mejor manera para reducir el texto y solo tener las ideas relevantes; también debería mejorar en mi utilización de palabras clave y conectores. Por último, en el apartado visual, pude haberlo hecho más vistoso a la vista, lo que haría que llame más la atención del lector.
+Uno de los aspectos a mejorar es mi organización jerárquica, ya que con la información recopilada pude haber derivado a más niveles, lo que haría la lectura del mapa conceptual más ligera. También pude haber sintetizado la información de una mejor manera para reducir el texto y solo tener las ideas relevantes; al igual debería mejorar en mi utilización de palabras clave y conectores. Por último, en el apartado visual, pude haberlo hecho más vistoso a la vista, lo que haría que llame más la atención del lector.
 
 ---
 
@@ -120,13 +116,13 @@ Uno de los aspectos a mejorar es mi organización jerárquica, ya que con la inf
 
 ## Descripción de la actividad
 
-Esta fue la actividad final del parcial y, a mi parecer, también fue la más interesante. Esta actividad se realizó en equipo: lo que hicimos fue construir un circuito utilizando el integrado 6116 (el cual es una memoria RAM) en conjunto con el integrado 74245, el 7448 y un display de cátodo común. Recreamos el circuito en un protoboard con base en una imagen la cual nos proporcionó el maestro, pero al momento de probar el circuito (que se veía visualmente idéntico al del maestro), ni siquiera encendía el display.
+Esta fue la actividad final del parcial y, a mi parecer, también fue la más interesante. Esta actividad se realizó en equipo, lo que hicimos fue construir un circuito utilizando el integrado 6116, el cual es una memoria RAM, en conjunto con el integrado 74245, el 7448 y un display de cátodo común. Recreamos el circuito en un protoboard con base en una imagen que nos proporcionó el maestro, pero al momento de probar el circuito que se veía visualmente idéntico al del maestro, ni siquiera encendía el display.
 
 Así que desmontamos todo del protoboard y, con ayuda de la imagen antes mencionada, se vio la estructura básica del circuito; pero en esta ocasión, en vez de armarlo con eso como única referencia, utilizamos las datasheets de cada uno de los integrados, analizando el porqué de cada conexión y la utilidad de cada pin. Optamos por crear un diagrama partiendo del análisis individual de cada integrado para facilitar el trabajo de ensamblado del circuito.
 
-El primer integrado al cual se le aplicó el análisis fue el 6116, del cual aterrizamos las direcciones que no íbamos a ocupar (en esta práctica solo utilizamos 4 de ellas, las cuales van conectadas a cada uno de los pines de un dip switch). De igual manera, solo utilizamos 4 de los pines I/O del integrado, por lo cual los demás se aterrizaron. Alimentamos el pin 24 y aterrizamos el 12; también se aterrizó el pin CS para que el integrado siempre esté activo, y a los pines WE y OE se les creó una conexión con un botón a cada uno. Con eso ya estaba prácticamente listo el análisis del 6116.
+El primer integrado al cual se le aplicó el análisis fue el 6116, del cual aterrizamos las direcciones que no íbamos a ocupar porque en esta práctica solo utilizamos 4 de ellas, las cuales van conectadas a cada uno de los pines de un dip switch. De igual manera, solo utilizamos 4 de los pines I/O del integrado, por lo cual los demás se aterrizaron. Alimentamos el pin 24 y aterrizamos el 12; también se aterrizó el pin CS para que el integrado siempre esté activo, y a los pines WE y OE se les creó una conexión con un botón a cada uno. Con eso ya estaba prácticamente listo el análisis del 6116.
 
-Seguidamente pasamos al análisis del 74245, el cual era un bus bidireccional: se conectó su pata 20 a la alimentación y la 10 a tierra, también la 1 para que los datos viajaran de B hacia A y el pin 19 a un dip switch para controlar el flujo de los datos. Del lado B de este estaban conectados 4 de sus pines a un dip switch, de donde se cargaba el dato binario a guardar, y hacia el lado A (que es por donde se conectaba al 6116) se dirigía el dato.
+Seguidamente pasamos al análisis del 74245, el cual era un bus bidireccional, se conectó su pata 20 a la alimentación y la 10 a tierra, también la 1 para que los datos viajaran de B hacia A y el pin 19 a un dip switch para controlar el flujo de los datos. Del lado B de este estaban conectados 4 de sus pines a un dip switch, de donde se cargaba el dato binario a guardar, y hacia el lado A, que es por donde se conectaba al 6116, se dirigía el dato.
 
 Seguidamente se analizó el 7448, cuyo trabajo era decodificar la señal de 4 bits para el display. Después de analizar todo eso y tener el diagrama completo, procedimos a montar todo de nuevo en el protoboard; probamos y funcionó sin problemas.
 
