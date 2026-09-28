@@ -126,9 +126,16 @@ Seguidamente pasamos al análisis del 74245, el cual era un bus bidireccional, s
 
 Seguidamente se analizó el 7448, cuyo trabajo era decodificar la señal de 4 bits para el display. Después de analizar todo eso y tener el diagrama completo, procedimos a montar todo de nuevo en el protoboard; probamos y funcionó sin problemas.
 
-## Evidencia
+## Evidencias
 
-[Ver reporte de la práctica de RAM 6116](ReporteRAM6116.pdf)
+![Reporte RAM 6116](Reportef1.jpeg)
+![Reporte RAM 6116](Reportef2.jpeg)
+![Reporte RAM 6116](Reportef3.jpeg)
+![Reporte RAM 6116](Reportef4.jpeg)
+![Reporte RAM 6116](Reportef5.jpeg)
+![Reporte RAM 6116](Reportef6.jpeg)
+![Reporte RAM 6116](Reportef7.jpeg)
+![Reporte RAM 6116](Reportef8.jpeg)
 
 ## ¿Qué aprendí?
 
