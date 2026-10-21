@@ -36,8 +36,8 @@ El objetivo de este portafolio es recopilar las actividades realizadas durante e
   - 2. [Programación de la IAS](#2-programación-de-la-ias)
   - 3. [Mapa conceptual de modelos de arquitectura de cómputo](#3-mapa-conceptual-de-modelos-de-arquitectura-de-cómputo)
   - 4. [Práctica de memoria RAM 6116](#4-práctica-de-memoria-ram-6116)
-  - 5. [Reflexión general de la unidad](#reflexión-general-de-la-unidad)
-  - 6. [Conclusión](#conclusión)
+  - 5. [Reflexión general de la unidad 1](#reflexión-general-de-la-unidad-1)
+  - 6. [Conclusión unidad 1](#conclusión-unidad-1)
    
 ## Unidad 2
 
@@ -47,8 +47,8 @@ El objetivo de este portafolio es recopilar las actividades realizadas durante e
   - 4. [Ejercicios de clase 2](#4-ejercicios-de-clase-2)
   - 5. [Presentación por equipos del segundo tipo de direccionamiento](#5-presentación-por-equipos-del-segundo-tipo-de-direccionamiento)
   - 6. [Questions and problems 2](#6-questions-and-problems-2)
-  - 7. [Reflexión general de la unidad](#reflexión-general-de-la-unidad)
-  - 8. [Conclusión](#conclusión)
+  - 7. [Reflexión general de la unidad 2](#reflexión-general-de-la-unidad-2)
+  - 8. [Conclusión unidad 2](#conclusión-unidad-2)
 
 ---
 
@@ -164,13 +164,13 @@ El principal error que se cometió en esta práctica fue no tomarnos el tiempo p
 
 ---
 
-# Reflexión general de la unidad
+# Reflexión general de la unidad 1
 
 La unidad fue muy interesante al poder ampliar conocimientos previos y relacionarlos entre sí; de igual manera, pude conocer temas nuevos los cuales son muy interesantes y útiles. Pude aprender las diferentes arquitecturas de computadoras, sus características, ventajas y desventajas. De igual manera, pude ver la evolución de las distintas tecnologías por las que han pasado los equipos de cómputo, desde los tubos al vacío hasta los microprocesadores y memorias semiconductoras. Comprendí los diferentes tipos de memorias, el porqué unas son más caras, veloces o con mayor almacenamiento, la diferencia entre arquitectura u organización, sobre los buses y demás temas de suma importancia. En general, pienso que la unidad fue muy interesante y me será muy útil al haber aprendido conceptos básicos los cuales me servirán en temas futuros.
 
 ---
 
-# Conclusión
+# Conclusión unidad 1
 
 En conclusión, considero que esta unidad ha estado llena de aprendizajes nuevos e importantes, como por ejemplo las arquitecturas de computadoras, la evolución de los equipos de cómputo y la utilización de nuevos integrados; pero de igual manera me sirvió para refrescar temas vistos antes, como los números binarios y el armado de circuitos electrónicos en protoboard. Considero que todos los aprendizajes adquiridos en la unidad me serán de gran utilidad en el ámbito profesional, al poder entender de mejor manera los equipos de cómputo.
 
@@ -356,12 +356,12 @@ Como principal aspecto a mejorar, está la realización de ejercicios hexadecima
 
 ---
 
-# Reflexión general de la unidad
+# Reflexión general de la unidad 2
 
 La unidad fue muy interesante al poder ampliar conocimientos previos y relacionarlos entre sí; de igual manera, pude conocer temas nuevos relacionados con el funcionamiento interno del microprocesador y el manejo de la memoria. Pude aprender sobre la arquitectura interna del microprocesador, los diferentes tipos de registros y la función que cumple cada uno, así como el registro de banderas y su importancia dentro del procesamiento de la información. De igual manera, pude comprender cómo se realiza el direccionamiento de memoria en modo real, además de conocer otros modelos como el modo protegido. En general, pienso que la unidad fue muy interesante y me será muy útil, ya que pude comprender mejor cómo funciona internamente un microprocesador y cómo se relaciona con la memoria, adquiriendo conocimientos que me servirán para comprender temas futuros de la asignatura.
 
 ---
 
-# Conclusión
+# Conclusión unidad 2
 
 En conclusión, considero que esta unidad ha estado llena de aprendizajes nuevos e importantes, como por ejemplo la arquitectura interna del microprocesador, los diferentes tipos de registros, el registro de banderas y las distintas formas de direccionamiento de memoria. De igual manera, me sirvió para comprender mejor cómo se relaciona el microprocesador con la memoria y cómo se manejan las direcciones de memoria mediante el modo real y el modo protegido. Considero que todos los aprendizajes adquiridos en la unidad me serán de gran utilidad en el ámbito profesional, ya que me permitirán comprender de mejor manera el funcionamiento interno de los equipos de cómputo y me servirán como base para abordar temas más avanzados en el futuro.
